@@ -24,4 +24,4 @@ I am a third-year undergraduate student in the Department of Physics at National
 * **Tools:** LaTeX, Git, GitHub Copilot
 
 ## 📬 Contact
-* **Email:** [wu931129@gmail.com](mailto:yunyenwuphysics@gmail.com)
+* **Email:** [yunyenwuphysics@gmail.com](mailto:yunyenwuphysics@gmail.com)
