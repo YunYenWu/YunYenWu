@@ -12,11 +12,11 @@ I am a third-year undergraduate student in the Department of Physics at National
 * **Current Research:** Investigating Non-Hermitian Bosonization and its connection to Logarithmic and Imaginary Liouville Field Theory under the supervision of Prof. Chang-Tse Hsieh.
 
 ## 📂 Selected Projects
-* **[Staggered Modules in Logarithmic CFT](https://github.com/YunYenWu/Non-Hermitian-Research-Presentations)**
+* **[Staggered Modules in Logarithmic CFT](https://github.com/YunYenWu/Non_Hermitian_Research_at_National_Taiwan_University)**
   * Discusses indecomposable properties and construction of staggered modules in LCFT.
-* **[Abelian Bosonization in 1+1 Dimensions](https://github.com/YunYenWu/QFT2-Abelian-Bosonization)**
+* **[Abelian Bosonization in 1+1 Dimensions](https://github.com/YunYenWu/QFT2_Abelian_Bosonization)**
   * [cite_start]A QFT II term paper detailing the exact operator mapping between Dirac fermions and scalar bosons [cite: 222-228].
-* **[Experimental Physics Data Analysis](https://github.com/YunYenWu/Experimental-Physics-Data-Analysis)**
+* **[Experimental Physics Data Analysis](https://github.com/YunYenWu/Experimental_Physics-Data_Analysis)**
   * Python and MATLAB scripts for analyzing AHE and magnetic susceptibility data.
 
 ## 💻 Technical Skills
